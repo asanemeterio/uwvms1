@@ -63,6 +63,7 @@
 
 #nav {
   padding: 30px;
+  border: 10px;
 }
 
 #nav a {
